@@ -6,4 +6,4 @@
     imageView.userInteractionEnabled = YES;
     [self.imageView makeDraggable];
 
-![image](https://github.com/haoerdege/JWAgrintel/blob/master/JWAgrintel/JWAgrintel/Supporting%20Files/JWDraggableView动态图演示.gif?raw=true)
+![image](https://github.com/haoerdege/imgSaveHereee/blob/master/imgSaveHereee/img/JWDraggableView动态图演示.gif?raw=true)
